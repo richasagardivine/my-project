@@ -1,2 +1,2 @@
 # my-project
-this is my revision repository
+this is my first revision repository
